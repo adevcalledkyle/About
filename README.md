@@ -1,5 +1,5 @@
 <H1>Hi there, I'm Kyle 🤖</H1>
-I'm a Full Stack Developer based in Melbourne, Australia with a postgraduate diploma in Information Communication Technologies, a Bachelor's degree in Design with Honours, and more than 2 years experience working in industry. I enjoy developing software that addresses the needs of a user, focusing on creating functionality and aesthetics that transform the experience of the user. My focus takes an agile approach focusing on mapping the scenarios of a user and breaking that down into achievable objectives.  
+I'm a Full Stack Developer based in Melbourne, Australia with 4+ years experience working in IT industry. Currently focused on AI adoption and integration to elevate my work.
 <br>
 <h1>⭐Skills</h1>
 <ul>
