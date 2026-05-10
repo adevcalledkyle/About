@@ -5,11 +5,11 @@ I'm a Full Stack Developer based in Melbourne, Australia with a postgraduate dip
 <ul>
   <li> 
     <b>Front End: </b>
-    Figma, CSS, HTML, Javascript, Vue, React, Angular, Next.js, Asp.Net, PHP, C#, SASS, Bootstrap, Tailwind, Typescript, Java, Python, node.js
+    Figma, CSS, HTML, Javascript, React, Nextjs, Asp.Net, PHP, C#, SASS, Bootstrap, Tailwind, Typescript, 
   </li>
    <li> 
     <b>Testing: </b>
-    Mocha, Jest, Jasmine, xUnit, Cypress, Puppeteer
+    Mocha, Jest, Jasmine, xUnit, Cypress, Puppeteer, Playwright
   </li>
   <li> 
     <b>Back End: </b>
@@ -20,72 +20,28 @@ I'm a Full Stack Developer based in Melbourne, Australia with a postgraduate dip
     SOLID, Design Patterns, Design Thinking, Agile, Scrum, UML Diagrams
   </li>
 </ul>
-<h1>⚒️ I'm currently working on...</h1>
-<h2>Expense Tracker 💲🛒🏦</h2>
-<h3>Description</h3>
-<p>Having completed a vue.js tutorial recently by Traversery Media for building an expense Tracker I wanted to continue exploring the functionality of the idea and build it to handle more use cases like living expenses and budgeting in situations like travelling. In the original tutorial, the project created the ability to input, track, calculate, and preserve the income and expenses of the user. This required adapting the original design to introduce new elements to deliver new functionality to a user and have more control over their finances. </p>
-<h3>Tech Stack</h3>
-<p>Figma, CSS, HTML, JavaScript, Vue, Vuetify(Jest), Pinia(State Management)</p>
-<h3>Versions</h3>
-<ul>
-  <li>
-    <b>Version 1: </b>
-    The user is able to have control over income, living expenses, savings, debts, accounts, wishlists and transactions
-  </li>
-  <li>
-    <b>Version 2: </b>
-    The user is able to create travel plans and switch between different created options to best suit their plans and available budget
-  </li>
-  <li>
-    <b>Version 3: </b>
-    API integration to support currency conversion and destination pre-filling for the travel functionality
-  </li>
-</ul>
-<h3>Progress</h3>
-<ul>
-  <li>
-    <b>Version: </b>
-    Version 1
-  </li>
-  <li>
-    <b>Completed: </b>
-    User Journeys, Class Diagrams, Low Fidelity Wireframing
-  </li>
-  <li>
-    <b>To Do: </b>
-    Coding, Testing, Git Push, High Fidelity, User Testing
-  </li>
-</ul>
-<h3>Repo Link</h3>
-<p>Coming Soon</p>
-
-<br>
 <h1>🔭 Upcoming Projects</h1>
-<h2>Prompt Generator 🤔🎲✏️</h2>
+<h2>JobHunter 💼👔💰</h2>
 <h3>Description</h3>
-<p>Combining my tech skills with projects I can design I wanted to construct a prompt generator like adobe's sharpen.io to incorporate the UI elements in the daily UI challenge, with transitions, visual styles and categories to help generate unique ideas.</p>
+<p>A personal-scale SaaS tool for application tracking, resume customisation, skill gap analysis, and job market intelligence. Integrates the Claude API (Haiku) for LLM-powered skill extraction from job descriptions. Built to solve my own job search problem while demonstrating full-stack LLM integration end-to-end. </p>
 <h3>Tech Stack</h3>
-<p>Angular</p>
-
-<h2>Family Tree 😄👪🌲</h2>
+<p>Figma,Next.js, TypeScript, Supabase, Claude/Anthropic API, Adzuna API, Tailwind CSS, Vercel</p>
+<h2>Prompt Generator❓✏️🖌️</h2>
 <h3>Description</h3>
-<p>Having watched my dad construct our family tree, I wanted to build a digital version that represents our relatives and all the new memories we create and capture digitally.</p>
+<p>A personal-scale SaaS tool for appliCanvas-based web app that generates structured creative prompts across mediums, styles, and categories. Approximately 75% built with AI-assisted development — intended as a published case study of structured LLM-assisted engineering workflow, with documented prompt chains and architectural decisions.</p>
 <h3>Tech Stack</h3>
-<p>React, Redux</p>
-
-<h2>Email Builder 📨🖌️📫</h2>
+<p>React, TypeScript, Konva.js, Node.js/Express, Next.js, Tailwind CSS, Vercel</p>
+<h2>Photography Portfolio 📸🖼️🖥️</h2>
 <h3>Description</h3>
-<p>Construct your dream email as good as the big companies with nothing more than share links to your Google storage. Choose font, colors, text, imagery, and layout into a custom email that can then be sent and resend as needed.</p>
+<p>Responsive photography portfolio built with headless CMS architecture, ISR, and Google Analytics integration. Intended as a published case study of Figma-to-code workflow using MCP tooling.</p>
 <h3>Tech Stack</h3>
-<p>Next.js</p>
-
-<h2>Inventory App 🎧❓🏠</h2>
-<h3>Description</h3>
-<p>Management of items across different locations and need to help track what you need, when, and where.</p>
-<h3>Tech Stack</h3>
-<p>React Native</p>
-<br>
+<p>Figma, Next.js, Sanity CMS, Tailwind CSS, Vercel, Google Analytics</p>
 <h1>💼 Work Experience</h1>
+<h3>Full Stack Developer / Business Analyst</h3>
+  Marshall White, Melbourne
+  <br>
+Aug 2024 - Apr 2026
+<br>
 <h3>Business Analyst</h3>
   Bupa, Melbourne
   <br>
